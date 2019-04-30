@@ -1,7 +1,7 @@
 # gitskills
 # xixi
-<<<<<<< HEAD
+ 
 Wo cao ni 
-=======
+ 
 # I was another man.
->>>>>>> c6fe7cd311a88118e8d22f8276708e966dc3e0b5
+ 
